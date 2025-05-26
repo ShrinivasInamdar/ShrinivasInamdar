@@ -146,41 +146,43 @@ export default function Portfolio() {
             <div className="space-y-6">
               <GlassmorphicCard>
                 <p className="text-lg text-zinc-300">
-                  I'm a passionate software engineer with experience building web applications and digital products. I
-                  specialize in frontend development with React and Next.js, but I'm also comfortable working with
-                  backend technologies.
+                  I’m a curious and driven computer engineering student,
+                   currently exploring the world of full-stack development. 
+                   I’m learning React, Next.js, and Node.js, and actively building projects to s
+                   harpen my skills.
                 </p>
                 <p className="text-lg text-zinc-300 mt-4">
-                  My journey in tech started with a strong foundation in software development. I've worked with various
-                  companies to create intuitive, performant, and accessible digital experiences.
+                  I’m interning with two companies where I get hands-on experience 
+                  in real-world development.
+                   I’m also deeply interested in entrepreneurship and actively
+                    working toward building that mindset through college initiatives and real-world exposure.
                 </p>
                 <p className="text-lg text-zinc-300 mt-4">
-                  When I'm not coding, you can find me exploring new technologies, contributing to open-source projects,
-                  and staying up-to-date with the latest industry trends.
+                  Outside of tech, I enjoy video editing, photography, and keeping up with the latest in the developer and startup world.
                 </p>
 
                 <div className="grid grid-cols-2 gap-4 mt-8">
                   <div className="space-y-1">
                     <div className="text-sm text-zinc-500">Name</div>
-                    <div className="font-medium">Shine Kyaw Kyaw Aung</div>
+                    <div className="font-medium">Shrinivas Gururaj Inamdar</div>
                   </div>
-                  <div className="space-y-1">
+                  {/* <div className="space-y-1">
                     <div className="text-sm text-zinc-500">Email</div>
                     <div className="font-medium">shrinivasinamdar6@</div>
-                  </div>
+                  </div> */}
                   <div className="space-y-1">
                     <div className="text-sm text-zinc-500">Location</div>
-                    <div className="font-medium">Myanmar</div>
+                    <div className="font-medium">Goa , India</div>
                   </div>
                   <div className="space-y-1">
                     <div className="text-sm text-zinc-500">Availability</div>
                     <div className="font-medium text-green-500">Open to opportunities</div>
                   </div>
                 </div>
-
-                <div className="mt-8">
+                    {/* resume button for future use */}
+                {/* <div className="mt-8">
                   <Button className="bg-zinc-800 hover:bg-zinc-700 text-white">Download Resume</Button>
-                </div>
+                </div> */}
               </GlassmorphicCard>
             </div>
           </div>
@@ -198,18 +200,14 @@ export default function Portfolio() {
           <SectionHeading title="My Skills" subtitle="Technologies I work with" />
 
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-16">
-            <SkillBadge name="JavaScript" level={90} />
-            <SkillBadge name="TypeScript" level={85} />
-            <SkillBadge name="React" level={95} />
-            <SkillBadge name="Next.js" level={90} />
-            <SkillBadge name="Node.js" level={80} />
-            <SkillBadge name="HTML/CSS" level={95} />
-            <SkillBadge name="Tailwind CSS" level={90} />
-            <SkillBadge name="GraphQL" level={75} />
-            <SkillBadge name="PostgreSQL" level={70} />
-            <SkillBadge name="AWS" level={65} />
-            <SkillBadge name="Docker" level={60} />
-            <SkillBadge name="Git" level={85} />
+            <SkillBadge name="HTML/CSS" level={80} />
+            <SkillBadge name="Javascript" level={80} />
+            <SkillBadge name="C/C++" level={80} />
+            <SkillBadge name="TypeScript" level={70} />
+            <SkillBadge name="React" level={70} />
+            <SkillBadge name="Next.js" level={50} />
+            {/* Implement after learning  */}
+            {/* <SkillBadge name="Node.js" level={30} /> */}
           </div>
         </div>
       </section>
@@ -226,12 +224,12 @@ export default function Portfolio() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-16">
             <ProjectCard
-              title="E-commerce Platform"
-              description="A full-stack e-commerce platform built with Next.js, Stripe, and Prisma."
-              tags={["Next.js", "TypeScript", "Prisma", "Stripe"]}
+              title="Junior Chamber International(JCI) - Ponda Webiste "
+              description="A full-stack website for JCI Ponda, built with Next.js and Tailwind CSS, designed to showcase events, manage content, and enhance community engagement."
+              tags={["Next.js", "TypeScript", "Tailwind CSS"]}
               image="/placeholder.svg?height=400&width=600"
-              demoUrl="https://example.com"
-              repoUrl="https://github.com"
+              demoUrl="https://www.jciponda.in"
+              repoUrl="https://github.com/ShrinivasInamdar/JCI-PONDA"
             />
             <ProjectCard
               title="Task Management App"
