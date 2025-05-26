@@ -107,12 +107,6 @@ export default function Portfolio() {
             <CreativeHero />
           </div>
         </div>
-
-        <div className="absolute bottom-10 left-1/2 -translate-x-1/2 animate-bounce">
-          <div className="w-6 h-10 rounded-full border-2 border-white/20 flex justify-center items-start p-1">
-            <div className="w-1.5 h-1.5 rounded-full bg-white/60 animate-pulse"></div>
-          </div>
-        </div>
       </section>
 
       {/* About Section */}
