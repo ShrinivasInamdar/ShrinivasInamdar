@@ -287,7 +287,7 @@ export default function Portfolio() {
                   </div>
                   <div>
                     <div className="text-sm text-zinc-500">LinkedIn</div>
-                    <div className="font-medium"><a href="linkedin.com/in/shrinivas-inamdar-a83a30237/">Shrinivas Inamdar</a></div>
+                    <div className="font-medium"><a href="https://linkedin.com/in/shrinivas-inamdar-a83a30237/">Shrinivas Inamdar</a></div>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
@@ -296,7 +296,7 @@ export default function Portfolio() {
                   </div>
                   <div>
                     <div className="text-sm text-zinc-500">GitHub</div>
-                    <div className="font-medium"><a href="https://github.com/ShrinivasInamdar"></a>Shrinivas Inamdar</div>
+                    <div className="font-medium"><a href="https://github.com/ShrinivasInamdar">Shrinivas Inamdar</a></div>
                   </div>
                 </div>
               </div>
