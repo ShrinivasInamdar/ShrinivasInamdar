@@ -226,7 +226,7 @@ export default function Portfolio() {
             <ProjectCard
               title="Junior Chamber International(JCI) - Ponda Webiste "
               description="A full-stack website for JCI Ponda, built with Next.js and Tailwind CSS, designed to showcase events, manage content, and enhance community engagement."
-              tags={["Next.js", "TypeScript", "Tailwind CSS"]}
+              tags={["NextJS", "Tailwind CSS"]}
               image="/placeholder.svg?height=400&width=600"
               demoUrl="https://www.jciponda.in"
               repoUrl="https://github.com/ShrinivasInamdar/JCI-PONDA"
@@ -240,36 +240,12 @@ export default function Portfolio() {
               repoUrl="https://github.com/ShrinivasInamdar/intelligent-DMS"
             />
             <ProjectCard
-              title="AI Content Generator"
-              description="An AI-powered content generation tool using OpenAI's GPT models."
-              tags={["Next.js", "OpenAI API", "Node.js", "MongoDB"]}
+              title="Bank Management System"
+              description="A web-based Bank Management System built with TypeScript and Python — featuring user account management, secure transactions, and a clean, responsive UI."
+              tags={["NextJS", "Python"]}
               image="/placeholder.svg?height=400&width=600"
-              demoUrl="https://example.com"
-              repoUrl="https://github.com"
-            />
-            <ProjectCard
-              title="Ban"
-              description="A mobile-first fitness tracking application with data visualization."
-              tags={["React Native", "TypeScript", "D3.js", "Firebase"]}
-              image="/placeholder.svg?height=400&width=600"
-              demoUrl="https://example.com"
-              repoUrl="https://github.com"
-            />
-            <ProjectCard
-              title="Weather Dashboard"
-              description="A beautiful weather dashboard with forecasts and historical data."
-              tags={["React", "Weather API", "Chart.js", "Styled Components"]}
-              image="/placeholder.svg?height=400&width=600"
-              demoUrl="https://example.com"
-              repoUrl="https://github.com"
-            />
-            <ProjectCard
-              title="Portfolio Website"
-              description="This portfolio website built with Next.js and Tailwind CSS."
-              tags={["Next.js", "Tailwind CSS", "Framer Motion", "TypeScript"]}
-              image="/placeholder.svg?height=400&width=600"
-              demoUrl="https://example.com"
-              repoUrl="https://github.com"
+              demoUrl="#"
+              repoUrl="https://github.com/ShrinivasInamdar/Online-Bank"
             />
           </div>
         </div>
