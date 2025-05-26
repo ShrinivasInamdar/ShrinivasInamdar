@@ -30,10 +30,10 @@ export default function Portfolio() {
 
         <div className="container relative z-10 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
-            <div className="inline-block">
-              <div className="relative px-3 py-1 text-sm font-medium rounded-full bg-white/10 backdrop-blur-sm border border-white/20 mb-4">
+            <div className="inline-block top-1">
+              <div className="relative px-3 py-1 text-sm font-medium rounded-full bg-white/10 backdrop-blur-sm border border-white/20 mb-4 ">
                 <span className="relative z-10">Aspiring Full-Stack Developer | Tech Enthusiast</span>
-                <span className="absolute inset-0 rounded-full bg-gradient-to-r from-purple-500/20 to-pink-500/20 animate-pulse"></span>
+                <span className="absolute inset-0 rounded-full bg-gradient-to-r from-purple-500/20 to-pink-500/20 animate-pulse top-1"></span>
               </div>
             </div>
             <h1 className="text-5xl md:text-7xl font-bold tracking-tight">
@@ -232,7 +232,7 @@ export default function Portfolio() {
               title="Intelligent Data Management System (DMS)"
               description="An AI-powered Document Management System built with React and Flask, enabling smart categorization, secure storage, and quick file retrieval."
               tags={["React", "Flask", "Tailwind CSS"]}
-              image="/dms.png" 
+              image="" 
               demoUrl="https://intelligent-dms.netlify.app/"
               repoUrl="https://github.com/ShrinivasInamdar/intelligent-DMS"
             />
