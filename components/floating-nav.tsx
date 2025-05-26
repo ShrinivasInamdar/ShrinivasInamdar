@@ -43,7 +43,7 @@ export function FloatingNav() {
   return (
     <>
       <motion.div
-        className={`fixed top-6 left-1/2 -translate-x-1/2 z-50 ${isVisible ? "opacity-100" : "opacity-0 pointer-events-none"}`}
+        className={`fixed top-6 right-1 -translate-x-1/2 z-50 ${isVisible ? "opacity-100" : "opacity-0 pointer-events-none"}`}
         initial={{ y: -100 }}
         animate={{ y: isVisible ? 0 : -100 }}
         transition={{ duration: 0.3 }}
@@ -55,7 +55,7 @@ export function FloatingNav() {
             <div className="relative flex items-center justify-between">
               <Link href="/" className="font-bold text-lg">
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600">Shrinivas</span>
-                <span className="text-white">Inamdar</span>
+                <span className="text-white"> Inamdar</span>
               </Link>
               <Button
                 variant="ghost"
