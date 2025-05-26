@@ -41,7 +41,7 @@ export function ProjectCard({ title, description, tags, image, demoUrl, repoUrl 
             <img
               src={image || "/placeholder.svg"}
               alt={title}
-              className={`w-full h-full object-cover transition-transform duration-700 ${isHovered ? "scale-110" : "scale-100"}`}
+              className={`w-full h-full  object-cover transition-transform duration-700 ${isHovered ? "scale-110" : "scale-100"}`}
             />
           </div>
 

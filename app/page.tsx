@@ -224,7 +224,7 @@ export default function Portfolio() {
               title="Junior Chamber International(JCI) - Ponda Webiste "
               description="A full-stack website for JCI Ponda, built with Next.js and Tailwind CSS, designed to showcase events, manage content, and enhance community engagement."
               tags={["NextJS", "Tailwind CSS"]}
-              image="/placeholder.svg?height=400&width=600"
+              image="/jciponda.png"
               demoUrl="https://www.jciponda.in"
               repoUrl="https://github.com/ShrinivasInamdar/JCI-PONDA"
             />
@@ -232,7 +232,7 @@ export default function Portfolio() {
               title="Intelligent Data Management System (DMS)"
               description="An AI-powered Document Management System built with React and Flask, enabling smart categorization, secure storage, and quick file retrieval."
               tags={["React", "Flask", "Tailwind CSS"]}
-              image="/placeholder.svg?height=400&width=600"
+              image="/dms.png" 
               demoUrl="https://intelligent-dms.netlify.app/"
               repoUrl="https://github.com/ShrinivasInamdar/intelligent-DMS"
             />
@@ -240,7 +240,7 @@ export default function Portfolio() {
               title="Bank Management System"
               description="A web-based Bank Management System built with TypeScript and Python — featuring user account management, secure transactions, and a clean, responsive UI."
               tags={["NextJS", "Python"]}
-              image="/placeholder.svg?height=400&width=600"
+              image="/bank.png"
               demoUrl="#"
               repoUrl="https://github.com/ShrinivasInamdar/Online-Bank"
             />
