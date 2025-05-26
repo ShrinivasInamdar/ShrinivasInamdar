@@ -232,12 +232,12 @@ export default function Portfolio() {
               repoUrl="https://github.com/ShrinivasInamdar/JCI-PONDA"
             />
             <ProjectCard
-              title="Task Management App"
-              description="A collaborative task management application with real-time updates."
-              tags={["React", "Firebase", "Tailwind CSS", "Redux"]}
+              title="Intelligent Data Management System (DMS)"
+              description="An AI-powered Document Management System built with React and Flask, enabling smart categorization, secure storage, and quick file retrieval."
+              tags={["React", "Flask", "Tailwind CSS"]}
               image="/placeholder.svg?height=400&width=600"
-              demoUrl="https://example.com"
-              repoUrl="https://github.com"
+              demoUrl="https://intelligent-dms.netlify.app/"
+              repoUrl="https://github.com/ShrinivasInamdar/intelligent-DMS"
             />
             <ProjectCard
               title="AI Content Generator"
@@ -248,7 +248,7 @@ export default function Portfolio() {
               repoUrl="https://github.com"
             />
             <ProjectCard
-              title="Fitness Tracker"
+              title="Ban"
               description="A mobile-first fitness tracking application with data visualization."
               tags={["React Native", "TypeScript", "D3.js", "Firebase"]}
               image="/placeholder.svg?height=400&width=600"
