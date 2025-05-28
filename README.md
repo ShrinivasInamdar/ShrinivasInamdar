@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrinivas Inamdar</h1>
-<h3 align="center">👋 Hi, I’m Shrinivas Inamdar I’m a second-year Computer Engineering student at Don Bosco College of Engineering, Goa. I’m passionate about full-stack web development, C++, and exploring the world of AI/ML. I’ve worked on several projects, including college event websites, and always eager to learn and build something impactful.</h3>
+<h3 align="center">I’m a second-year Computer Engineering student at Don Bosco College of Engineering, Goa. I’m passionate about full-stack web development, C++, and exploring the world of AI/ML. I’ve worked on several projects, including college event websites, and always eager to learn and build something impactful.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrinivasinamdar&label=Profile%20views&color=0e75b6&style=flat" alt="shrinivasinamdar" /> </p>
 
