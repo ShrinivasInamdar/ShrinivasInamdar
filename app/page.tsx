@@ -53,12 +53,14 @@ export default function Portfolio() {
                 </span>
                 <span className="absolute inset-0 bg-gradient-to-r from-pink-500 to-purple-500 opacity-0 group-hover:opacity-100 transition-opacity"></span>
               </Button>
-              <Button
+              <Button 
                 variant="outline"
-                className="border-zinc-700 text-zinc-300 hover:text-white hover:border-zinc-500"
-              ><a href="#contact">Contact Me</a>
-                
-              </Button>
+                className="border-zinc-700 text-zinc-300 hover:text-white hover:border-zinc-500 bg-gradient-to-r from-pink-500 to-purple-500"
+              >
+              <span className="relative z-10 flex items-center ">
+                  <a href="#contact">Contact Me</a></span>
+                  
+                </Button>
             </div>
             <div className="flex gap-4 pt-4">
               <Link href="https://github.com/ShrinivasInamdar" target="_blank" rel="noopener noreferrer">
@@ -153,10 +155,7 @@ export default function Portfolio() {
                 </p>
 
                 <div className="grid grid-cols-2 gap-4 mt-8">
-                  <div className="space-y-1">
-                    <div className="text-sm text-zinc-500">Name</div>
-                    <div className="font-medium">Shrinivas Gururaj Inamdar</div>
-                  </div>
+                  
                   {/* <div className="space-y-1">
                     <div className="text-sm text-zinc-500">Email</div>
                     <div className="font-medium">shrinivasinamdar6@</div>
@@ -211,6 +210,7 @@ export default function Portfolio() {
         </div>
 
         <div className="container relative z-10">
+          
           <SectionHeading title="Featured Projects" subtitle="Some of my recent work" />
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-16">
@@ -268,7 +268,7 @@ export default function Portfolio() {
         <div className="container relative z-10">
           <SectionHeading title="Get In Touch" subtitle="Let's work together" />
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mt-16">
+          <div className="grid grid-cols-1 md:grid-cols-1 gap-12 items-center mt-16 place-items-center">
             <GlassmorphicCard>
               <h3 className="text-2xl font-bold mb-6">Contact Information</h3>
               <div className="space-y-6">
@@ -323,9 +323,9 @@ export default function Portfolio() {
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600">Shrinivas</span>
               <span className="text-white"> Inamdar</span>
             </Link>
-            {/* <p className="text-sm text-zinc-500 mt-2">
-              © {new Date().getFullYear()} Shine Kyaw Kyaw Aung. All rights reserved.
-            </p> */}
+            <p className="text-sm text-zinc-500 mt-2">
+              © {new Date().getFullYear()} Shrinivas Inamdar . All rights reserved.
+            </p>
           </div>
           <div className="flex gap-4">
             <Link href="https://github.com/ShrinivasInamdar" target="_blank" rel="noopener noreferrer">
