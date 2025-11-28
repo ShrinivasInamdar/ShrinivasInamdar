@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🔭 Frontend focused developer expanding into backend  
-- 🌱 Currently learning **Node.js** and **Python**  
+- 🌱 Currently learning **C#** and **Node.js**  
 - 🎯 Interested in full-stack development, AI, and system design  
 - 💡 Always building something new and improving my skills  
 
@@ -25,7 +25,7 @@
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,bootstrap,tailwind,nodejs,express,mongodb,cpp,py,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,bootstrap,tailwind,nodejs,cpp,py,git,vscode" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 </p>
 
 ---
-
+<!-- Resume Section (Commented Out for Future Use)
 ## 🏆 Achievements and Certifications
 
 - Completed **AI ML Virtual Internship** through India Edu Program  
@@ -68,6 +68,7 @@
 - Strong foundation in **C++**, **Web Dev**, and **System Design basics**  
 
 ---
+-->
 
 ## 📊 Contribution Graph
 
