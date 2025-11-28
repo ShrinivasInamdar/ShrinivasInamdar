@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/ShrinivasInamdar/ShrinivasInamdar/main/banner.png" alt="Shrinivas Inamdar Banner"/>
-</p>
+</p> -->
 
 <h1 align="center">Hi👋 I'm Shrinivas Inamdar</h1>
 
