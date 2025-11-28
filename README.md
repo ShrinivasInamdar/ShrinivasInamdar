@@ -5,11 +5,11 @@
 
 <h1 align="center">Hi👋 I'm Shrinivas Inamdar</h1>
 
-<p align="center">
+<!-- <p align="center">
   A third-year Computer Engineering student from Goa.  
   I love building clean interfaces, exploring backend development, and diving deeper into AI and ML.  
   I enjoy creating projects that make an impact, whether it's event platforms, websites, or innovative ideas.
-</p>
+</p> -->
 
 ---
 
