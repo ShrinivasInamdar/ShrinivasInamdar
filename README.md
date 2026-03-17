@@ -1,89 +1,24 @@
-<!-- Banner -->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/ShrinivasInamdar/ShrinivasInamdar/main/banner.png" alt="Shrinivas Inamdar Banner"/>
-</p> -->
+# 💫 About Me:
+🔭 Frontend focused developer expanding into backend<br>🌱 Currently learning C# and Node.js<br>🎯 Interested in full-stack development, AI, and system design<br>💡 Always building something new and improving my skills
 
-<h1 align="center">Hi👋 I'm Shrinivas Inamdar</h1>
 
-<!-- <p align="center">
-  A third-year Computer Engineering student from Goa.  
-  I love building clean interfaces, exploring backend development, and diving deeper into AI and ML.  
-  I enjoy creating projects that make an impact, whether it's event platforms, websites, or innovative ideas.
-</p> -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrinivas-inamdar-a83a30237) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrinivasinamdar6@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShrinivasInamdar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShrinivasInamdar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrinivasInamdar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ShrinivasInamdar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 Frontend focused developer expanding into backend  
-- 🌱 Currently learning **C#** and **Node.js**  
-- 🎯 Interested in full-stack development, AI, and system design  
-- 💡 Always building something new and improving my skills  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ShrinivasInamdar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ShrinivasInamdar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,bootstrap,tailwind,nodejs,cpp,py,git" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://twitter.com/__shrinivas__" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/shrinivas-inamdar-a83a30237" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-  </a>
-  <a href="https://instagram.com/shrinivas_inamdar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-  </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShrinivasInamdar&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrinivasInamdar&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrinivasInamdar&theme=tokyonight" height="180"/>
-</p>
-
----
-<!-- Resume Section (Commented Out for Future Use)
-## 🏆 Achievements and Certifications
-
-- Completed **AI ML Virtual Internship** through India Edu Program  
-- Completed **Foundations of Cybersecurity**  
-- Completed **Web Development Bootcamp by Dr. Angela Yu**  
-- Built **event websites** and contributed to college fests  
-- Strong foundation in **C++**, **Web Dev**, and **System Design basics**  
-
----
--->
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<!-- Resume Section (Commented Out for Future Use)
-## 📄 Resume
-Add your resume link here later
--->
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShrinivasInamdar&label=Profile+Views&color=0e75b6" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
