@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🗿 About Me:
 🔭 Frontend focused developer expanding into backend<br>🌱 Currently learning C# and Node.js<br>🎯 Interested in full-stack development, AI, and system design<br>💡 Always building something new and improving my skills
 
 
